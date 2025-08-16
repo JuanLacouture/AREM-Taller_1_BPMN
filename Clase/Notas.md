@@ -31,8 +31,9 @@
 - **¿Qué parte del trabajo se alcanzó a desarrollar?**  
   Se definió el **mapa de proceso** y el **camino feliz**, se configuraron *pools/lanes*, compuertas principales y eventos de mensaje. Se dejó lista la estructura para detallar integraciones y asociaciones de datos.
 
+
 ## 🧩 Boceto inicial del modelo
-> (Se adjuntará captura del diagrama preliminar en draw.io con pools/líneas de nado, compuertas y flujos de mensaje.)
+<img width="1566" height="601" alt="BPMN CASO2" src="https://github.com/user-attachments/assets/49271bea-e80d-47c8-a2db-23294793888a" />
 
 ## 🔁 Tareas definidas para complementar el taller
 
@@ -116,3 +117,4 @@ Camunda. (s. f.). *BPMN 2.0 Symbols — A complete guide with examples*. https:/
 ---
 
 _Este documento resume el trabajo colaborativo realizado durante la sesión del Taller 1 en el curso AREM - Universidad de La Sabana._
+
